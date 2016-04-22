@@ -1,10 +1,24 @@
----
-title: Haha!
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LaughingSkull</title>
 
-<div class="row">
-    <div class="col-xs-12 col-sm-4">
-        <img src="/images/laughingskull.gif" alt="Hahahaha!" class="img-responsive center-block">
-    </div>
-</div>
+<style>
+    .img-centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        /* bring your own prefixes */
+        transform: translate(-50%, -50%);
+    }
+
+    body {
+        background-color: #000000;
+    }
+</style>
+
+</head>
+<body>
+    <img src="laughingskull.gif" alt="Hahahaha!" class="img-centered">
+</body>
+</html>

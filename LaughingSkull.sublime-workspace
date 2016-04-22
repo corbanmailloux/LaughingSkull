@@ -1,1 +1,505 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"out",
+				"output_filename"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"c",
+				"current_s_value"
+			],
+			[
+				"in",
+				"input_filename"
+			],
+			[
+				"pro",
+				"promptAndStoreToken"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"r",
+				"rgb"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"col",
+				"colorString"
+			],
+			[
+				"l",
+				"lang	Attr"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"sp",
+				"spectrum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "pyth",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"gc",
+				"Set Syntax: G-code"
+			],
+			[
+				"g",
+				"Set Syntax: G-code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"groovy",
+				"Set Syntax: Groovy"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/live/Documents/GIT/LaughingSkull"
+	],
+	"file_history":
+	[
+		"/C/Users/live/Documents/GIT/LaughingSkull/CNAME",
+		"/C/Users/live/Documents/GIT/LaughingSkull/index.html",
+		"/C/Users/live/Documents/GIT/LaughingSkull/_includes/head.html",
+		"/C/Users/live/Documents/GIT/LaughingSkull/_sass/_additional.scss",
+		"/C/Users/live/Documents/GIT/LaughingSkull/404.html",
+		"/C/Users/live/Documents/GIT/LaughingSkull/_config.yml",
+		"/C/Users/live/AppData/Local/Temp/scp33454/etc/nginx/sites-enabled/corb.co",
+		"/C/Users/live/AppData/Local/Temp/scp27806/etc/nginx/sites-enabled/bucketeer.me",
+		"/C/Users/live/AppData/Local/Temp/scp26347/var/www/bucketeer.me/bucketeer.me/bucket/bucket/settings.py",
+		"/D/load/interfaces",
+		"/D/load/wpa",
+		"/D/cmdline.txt",
+		"/D/issue.txt",
+		"/D/overlays/README",
+		"/D/config.txt",
+		"/C/Users/live/Downloads/NOOBS/INSTRUCTIONS-README.txt",
+		"/C/Users/live/Downloads/0 - laser/2000-0.1-(20-200).nc",
+		"/C/Users/live/Downloads/0 - laser/test.py",
+		"/C/Users/live/Downloads/0 - laser/2000-0.1-(20-200).nc.out.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/1000-test.nc.out.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/postprocess.py",
+		"/C/Users/live/Downloads/0 - laser/maggs.nc.out.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/1000-small-range.nc",
+		"/C/Users/live/Downloads/0 - laser/maggs.nc",
+		"/C/Users/live/Downloads/0 - laser/postprocess.py",
+		"/C/Users/live/Downloads/UniversalGcodeSender/start-windows.bat",
+		"/C/Users/live/Downloads/0 - laser/pattern test/2000-test.nc.out.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/2000-0.25.nc.out.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/1000-test.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/1000.nc",
+		"/C/Users/live/Downloads/0 - laser/more patterns/laser guide.txt",
+		"/C/Users/live/Downloads/0 - laser/more more patterns/1250-small_0001_Gray_256_gcode.txt",
+		"/C/Users/live/Downloads/grbl-master/grbl/config.h",
+		"/C/Users/live/Downloads/0 - laser/pattern test/500.nc",
+		"/C/Users/live/Downloads/0 - laser/pattern test/250.nc",
+		"/C/Users/live/Downloads/0 - laser/more more patterns/1000_0001_Gray_256_gcode.txt",
+		"/C/Users/live/Downloads/0 - laser/more more patterns/1250_0001_Gray_256_gcode.txt",
+		"/C/Users/live/Downloads/0 - laser/pattern test/100.nc",
+		"/C/Users/live/Downloads/enernoc6.nc",
+		"/C/Users/live/Downloads/enernoc.nc",
+		"/C/Users/live/Downloads/enernoc2.nc",
+		"/C/Users/live/Downloads/enernoc3.nc",
+		"/C/Users/live/Downloads/enernoc4.nc",
+		"/C/Users/live/Downloads/enernoc5.nc",
+		"/C/Users/live/Downloads/ben and chels.cnc",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/name_0003.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/border-cut_0001.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ben image_0001_Gray_256_gcode.txt",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ben image_0002_Gray_256_gcode.txt",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/back_0002.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/back_0001.gcode",
+		"/C/Users/live/AppData/Local/Temp/7zO87B39F79/laserengraver.py",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ben_0005.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/lineBurn_0001.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/line_0004.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ben_0001.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/line_0002.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/line_0003.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ace_0004.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ace_0003.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ace_0001.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/ace_0002.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/card_0002.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/card_0001.gcode",
+		"/C/Users/live/OneDrive/Documents/Laser Outputs/square_0003.gcode",
+		"/C/Users/live/Desktop/ruler-outline_0001.gcode",
+		"/C/Users/live/Desktop/ruler_0001.gcode",
+		"/C/Users/live/Desktop/ruler_0002.gcode",
+		"/C/Users/live/Desktop/output_0005.gcode",
+		"/C/Users/live/Desktop/output_0004.gcode",
+		"/C/Users/live/Desktop/output_0001.gcode",
+		"/C/Users/live/Desktop/output_0002.gcode",
+		"/C/Users/live/Desktop/output_0001.ngc",
+		"/C/Users/live/Downloads/grbl-master/grbl/defaults.h",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/rgb/init.js",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/rgb/spectrum.css",
+		"/C/Users/live/Documents/GIT/RGBWebMark2/rgbweb-mark-ii.ino",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/rgb/index.html",
+		"/C/Users/live/Documents/GIT/RGBWebMark2/rgbweb-mark-ii.ino.cpp",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/rgb/rgb.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/_includes/head.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/icons/manifest.json",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/jscolor/jscolor.js",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/js/rgb/spectrum.js",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/js/rgb/init.js",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/rgb.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/jscolor/index.html",
+		"/C/Users/live/Downloads/jscolor-custom/jscolor.js",
+		"/C/Users/live/Downloads/jscolor-custom/jscolor-custom-look.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/ben/index.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/_config.yml",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/_layouts/ben.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/css/rgb/spectrum.css",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/_includes/foot.html",
+		"/C/Users/live/Documents/GIT/corbanmailloux.github.io/_layouts/default.html",
+		"/C/Users/live/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/tools/DevKit2/config.yml",
+		"//Obama/drives/ZZZ - Main/Users/XBMC/AppData/Roaming/Kodi/kodi.log"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".*S[0-9]+$",
+			"y",
+			"f",
+			"s",
+			"f",
+			"S",
+			"F900",
+			"F800",
+			"F600",
+			"S160",
+			"S175",
+			"S100",
+			"F1000",
+			"S200",
+			"F1.000000",
+			"10000",
+			"s23[0-9]",
+			"s2[0-9][0-9]",
+			"s[0-9][0-9][0-9]",
+			"s25",
+			"R",
+			"[^\\ ]F3000",
+			"m18",
+			"x11",
+			"x12",
+			"x13",
+			"x15",
+			"x14",
+			"\\ +",
+			"140",
+			"change",
+			"spindle",
+			"varia",
+			"</scr",
+			"width",
+			"location",
+			"click",
+			"@med",
+			"sp-pick",
+			"width",
+			"max-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"F975",
+			"F900",
+			"F800",
+			"S256",
+			"S160",
+			"S175",
+			"F600",
+			"S100",
+			"F100",
+			"255",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LaughingSkull.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
